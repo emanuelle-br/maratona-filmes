@@ -15,3 +15,6 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Harry Potter
 - [ ] Coraline
+- [ ] Crônicas de Nárnia
+- [ ] Percy Jackson
+
